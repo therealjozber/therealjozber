@@ -17,6 +17,19 @@ Whether building robust systems, optimizing existing solutions, or tackling adva
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+## 🌍 **My Hosted Projects**
+
+I’ve had the privilege of working on several impactful projects that showcase my technical expertise. Below are the links to my currently hosted works. Feel free to explore:
+
+### 💻 **[JotechNet](https://jotechnet.pro)**
+A comprehensive platform offering innovative solutions for the digital world.  
+[![Visit JotechNet](https://img.shields.io/badge/Visit%20JotechNet-%2300ADD8.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jotechnet.pro)
+
+### 📅 **[Appointment Booking System](#)**  
+A streamlined system designed to simplify appointment scheduling for businesses and individuals.  
+[![Explore Appointment Booking](https://img.shields.io/badge/Explore%20Appointment%20Booking-%23FF5722.svg?style=for-the-badge&logo=calendar&logoColor=white)](#)
+
+
 ## 🎶 **Coding With Beats**  
 Music fuels my creativity and drives my focus. Whether debugging complex code or designing cutting-edge projects, I rely on the rhythm to keep my energy high and my mind sharp. 🎧 It's not just background noise—it's my productivity partner, helping me unlock new levels of innovation. 🚀  
 

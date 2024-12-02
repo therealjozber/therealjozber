@@ -24,18 +24,10 @@ Music fuels my creativity and drives my focus. Whether debugging complex code or
 [![Spotify](https://img.shields.io/badge/Listen%20Now-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
 
 🎵 **Genres I Love:**  
-<div style="display: flex; gap: 10px;">  
-  [![Pop](https://img.shields.io/badge/Pop-%23FF004F.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/pop)  
-  [![Electronic](https://img.shields.io/badge/Electronic-%239B47A2.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/electronic)  
-  [![Lo-fi](https://img.shields.io/badge/Lo-fi-%23A47D7D.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/lo-fi)  
-</div>
+[![Pop](https://img.shields.io/badge/Pop-%23FF004F.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/pop)  [![Electronic](https://img.shields.io/badge/Electronic-%239B47A2.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/electronic)  [![Lo-fi](https://img.shields.io/badge/Lo-fi-%23A47D7D.svg?style=for-the-badge&logo=music&logoColor=white)](https://music.apple.com/us/genre/lo-fi)
 
 🎤 **Favorite Artists:**  
-<div style="display: flex; gap: 10px;">  
-  [![Kendrick Lamar](https://img.shields.io/badge/Kendrick%20Lamar-%23FF5722.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)  
-  [![Daft Punk](https://img.shields.io/badge/Daft%20Punk-%237B1FA2.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)  
-  [![Tame Impala](https://img.shields.io/badge/Tame%20Impala-%230A4F75.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)  
-</div>
+[![Kendrick Lamar](https://img.shields.io/badge/Kendrick%20Lamar-%23FF5722.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)  [![Daft Punk](https://img.shields.io/badge/Daft%20Punk-%237B1FA2.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)  [![Tame Impala](https://img.shields.io/badge/Tame%20Impala-%230A4F75.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
 
 💡 **Pro Tip:** Keep your mind sharp with a good playlist while tackling those challenging algorithms! 🎶 Music can be the key to better concentration and creative problem-solving. Plus, you’ll power through your tasks with fresh energy. 🚀
 

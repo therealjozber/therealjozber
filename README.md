@@ -11,8 +11,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=therealjozber&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=therealjozber&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=therealjozber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies  
+<p align="center">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">  
+    <img src="https://github-profile-trophy.vercel.app/?username=therealjozber&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4&row=2&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Jozbert's Trophies" />  
+  </a>  
+</p>  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

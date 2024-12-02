@@ -25,12 +25,12 @@ I’ve had the privilege of working on several impactful projects that showcase 
 A comprehensive platform offering innovative solutions for the digital world.  
 [![Visit JotechNet](https://img.shields.io/badge/Visit%20JotechNet-%2300ADD8.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jotechnet.pro)
 
-### 📅 **[Appointment Booking System](#)**  
+### 📅 **[Appointment Booking System](https://jotechnet.pro/booking/)**
 A streamlined system designed to simplify appointment scheduling for businesses and individuals.  
-[![Explore Appointment Booking](https://img.shields.io/badge/Explore%20Appointment%20Booking-%23FF5722.svg?style=for-the-badge&logo=calendar&logoColor=white)](#)
+[![Explore Appointment Booking](https://img.shields.io/badge/Explore%20Appointment%20Booking-%23FF5722.svg?style=for-the-badge&logo=calendar&logoColor=white)](https://jotechnet.pro/booking/)
 
 
-## 🎶 **Coding With Beats**  
+## 🎶 **Rhythmic Programming*  
 Music fuels my creativity and drives my focus. Whether debugging complex code or designing cutting-edge projects, I rely on the rhythm to keep my energy high and my mind sharp. 🎧 It's not just background noise—it's my productivity partner, helping me unlock new levels of innovation. 🚀  
 
 🌟 **Current Playlist:**  

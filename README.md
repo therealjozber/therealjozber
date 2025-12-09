@@ -18,10 +18,9 @@ I thrive on **Open Source contribution**, **ethical hacking**, and designing **i
 - **Expertise:** React.js, Django, PostgreSQL, DevOps, Linux, SaaS Architecture  
 - **Focus Areas:** Multi-Tenant Systems, Security, Automation, AI-Driven Solutions  
 - **Projects:**  
-  - **Forjotechnet Website** – Modern web application for a tech consultancy  
-  - **Enterprise SaaS Inventory Management System with POS** – Multi-tenant, scalable SaaS  
+  - **therealjozbert portifolio** – My portifolio 
+  - **Enterprise SaaS Inventory Management System with POS ERP(stooqo)** – Multi-tenant, scalable SaaS  
   - **Multi-Tenant Authentication Services** – Secure user & access management  
-  - **Stooqo Multi-Location System** – Real-time multi-location management solution  
 
 I am committed to **building secure, maintainable, and scalable software** while actively **engaging with global developer communities**.
 
@@ -29,9 +28,8 @@ I am committed to **building secure, maintainable, and scalable software** while
 
 ## 🔭 What I’m Working On Right Now
 
-- Finalizing **frontend for Multi-Tenant Authentication Services**  
-- Expanding **Enterprise SaaS Inventory Management System** with advanced analytics  
-- Contributing to **open-source projects** in React.js and Python  
+- Finalizing **Enterprise SaaS Inventory Management System with POS ERP(stooqo)**  
+- Contributing to **open-source projects** in React.js and Django  
 - Exploring **ethical hacking & automation frameworks**  
 
 ---
@@ -39,16 +37,16 @@ I am committed to **building secure, maintainable, and scalable software** while
 ## 🛠 Technical Stack
 
 **Frontend:**  
-- React.js, Tailwind CSS, Redux, GraphQL  
+- React.js, Tailwind CSS, Redux, React Query  
 
 **Backend:**  
-- Django, Django REST Framework, Python, Node.js  
+- Django, Django REST Framework, Python  
 
 **Database & Storage:**  
-- PostgreSQL, MongoDB, Redis, Elasticsearch  
+- PostgreSQL, Redis, Elasticsearch  
 
 **DevOps & Cloud:**  
-- Docker, Kubernetes, CI/CD (GitHub Actions), Linux, AWS  
+- Docker, Kubernetes, CI/CD (GitHub Actions), Linux  
 
 **Security & Auth:**  
 - OAuth 2.0, JWT, RBAC/ABAC, Multi-Factor Authentication  
@@ -56,15 +54,12 @@ I am committed to **building secure, maintainable, and scalable software** while
 **SaaS & Architecture:**  
 - Multi-Tenant Systems, Service-Oriented Architecture, Event-Driven Design  
 
-**AI & Automation:**  
-- Python Automation Scripts, LangChain, Modern AI Integration  
 
 ---
 
 ## 🌱 Current Open-Source Contributions & Goals
 
 - Active contributions to **React.js**, **Python**, and **Django OSS projects**  
-- Building reusable **SaaS components** for multi-tenant systems  
 - Documenting **security best practices** for open-source projects  
 - Goal: Become a recognized contributor in **full-stack SaaS & cybersecurity OSS communities**  
 
@@ -74,11 +69,9 @@ I am committed to **building secure, maintainable, and scalable software** while
 
 | Project | Description |
 |---------|-------------|
-| **Forjotechnet Website** | Fully responsive tech consultancy website built with React.js & Tailwind CSS |
-| **Enterprise SaaS IMS with POS** | Multi-tenant, scalable SaaS for inventory & sales, featuring analytics and finance modules |
+| **My portifolio Website** | Fully responsive portifolio website built with React.js & Tailwind CSS |
+| **Enterprise SaaS IMS with POS(ERP)** | Multi-tenant, scalable SaaS for inventory & sales, featuring analytics and finance modules |
 | **Multi-Tenant Auth Service** | Secure authentication & authorization platform for SaaS applications, supporting RBAC & MFA |
-| **Stooqo Multi-Location System** | Real-time multi-location management system, optimized for distributed operations |
-
 ---
 
 ## 📊 GitHub Metrics
@@ -101,8 +94,8 @@ I am committed to **building secure, maintainable, and scalable software** while
 ## 📫 Contact & Socials
 
 - GitHub: [@therealjozbert](https://github.com/therealjozber)  
-- LinkedIn: [Jozbert James Bhoyi](https://www.linkedin.com/in/therealjozbert)  
-- Portfolio: [Personal Website](#)  
+- LinkedIn: [Jozbert James Bhoyi](https://www.linkedin.com/in/jozbert-james)  
+- Portfolio: [Personal Website](https://therealjozbert.com)  
 - Email: info@therealjozbert.com  
 
 ---
